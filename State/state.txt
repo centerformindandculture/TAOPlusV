@@ -1,0 +1,6 @@
+// I would recommend making a copy of this file in the same location
+// called "mystate.txt" and making your changes in there to ensure
+// that you won't push your data to git
+LastPulledNYTData 0
+SshRsaKeyLocation <Path to your RSA key>
+SshRsaKeyPassword <Your RSA key password or '.' if no password>
